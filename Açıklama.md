@@ -5,3 +5,6 @@ Butona her basıldığında, kesme mekanizması devreye girerek ana döngüyü g
 ve butonun kaç kez basıldığına bağlı olarak farklı LED animasyonları çalıştırır. 
 Örneğin, butona bir kez basıldığında LED'ler sırayla yanıp sönerken, 
 iki kez basıldığında ters yönde bir animasyon gerçekleşir.
+
+KART ÜZERİNDE GÖSTERİMİ : 
+https://youtube.com/shorts/_vOtHr54e1Y?si=nsP41BzNN7jOBPLb 
